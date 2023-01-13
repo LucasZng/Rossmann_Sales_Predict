@@ -3,8 +3,4 @@ pandas
 inflection
 Flask
 xgboost==1.6.2
-<<<<<<< HEAD
 scikit-learn
-=======
-scikit-learn
->>>>>>> 2a259303a1415514df9d89b92baa75f74e2942ce
